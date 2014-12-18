@@ -8,6 +8,8 @@
 
 <?php
 
+// Documentation reference: https://mailsquad.com/api-doc/#!/subscription/subscription_listid_post
+
 require_once 'unirest-php/lib/Unirest.php';
 
 // Set your API key here
